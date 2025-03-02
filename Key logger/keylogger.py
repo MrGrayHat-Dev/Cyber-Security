@@ -1,4 +1,4 @@
-#key logger
+#key Logger
 import tkinter as tk
 from tkinter import *
 from pynput import keyboard
